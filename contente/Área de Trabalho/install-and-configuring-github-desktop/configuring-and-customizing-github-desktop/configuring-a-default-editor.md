@@ -71,9 +71,4 @@ shortTitle: Configure default editor
 
 {% data reusables.desktop.windows-choose-options %}
 3. In the Options window, select **Integrations**.
-  ![The Integrations pane in the Options window](/assets/images/help/desktop/windows-select-integrations-pane.png)
-4. Use the "External Editor" drop-down menu, and choose the editor you want to set as your default.
-  ![The External editor menu in the Options menu bar](/assets/images/help/desktop/windows-editor-menu.png)
-5. Click **Save**.  
-
-{% endwindows %}
+  ![The In
